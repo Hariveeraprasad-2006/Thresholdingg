@@ -19,6 +19,8 @@ Doing the global Global Thresholding,Adaptive Thresholding,Otsu's Thresholding
 ### Step5:
 By using opencv module show the image by running the programm.
 ## Program
+# Developed by: Arikatla Veera Prasad
+# Register number: 212223240014
 # Load the necessary packages:
 ```
 import cv2
