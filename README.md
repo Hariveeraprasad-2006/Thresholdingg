@@ -19,8 +19,6 @@ Doing the global Global Thresholding,Adaptive Thresholding,Otsu's Thresholding
 ### Step5:
 By using opencv module show the image by running the programm.
 ## Program
-
-```python
 # Load the necessary packages:
 ```
 import cv2
@@ -67,9 +65,6 @@ cv2.destroyAllWindows()
 ```
 
 
-
-
-```
 ## Output
 
 ### Original Image
